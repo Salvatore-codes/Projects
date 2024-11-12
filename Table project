@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title> Table Form </title>
+        <body> 
+            <center> <form>
+            <table>
+                <tr>
+                    <td>Name</td> <td> <input type="text " placeholder="what your parents call you "></td>
+                </tr>
+                <tr>
+                    <td> Age </td> <td> <input type="number" placeholder="How many useless years"></td>
+                </tr>
+                <tr> 
+                    <td> Address 
+                    </td>
+                    <td> <input type="text" placeholder="Where you reside"></td>
+                   </tr>
+                   <tr>
+                    <td>
+                        Type of Family you Belong
+                    </td>
+                    <td>
+                        <select>
+                            <option> Joint Family</option>
+                            <option> Nuclear Family </option>
+                            <option> Living alone </option>
+                            <option> Leave me alone </option>
+                        </select>
+                    </td>
+                   </tr> 
+                   <tr> 
+                <td> </td> <td> <input type="submit" > <input type="reset"
+                </td>
+               </tr> 
+
+               
+            </table>
+                </form>
+            </center>
+        </body>
+    </head>
+
+</html>
